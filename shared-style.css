@@ -34,3 +34,10 @@ header li{
     margin-left: 20px;
 }
 
+#hero{
+    background-image: url("/images/places/ocean.jpeg");
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+}
+
