@@ -43,13 +43,17 @@
     justify-content: space-evenly;
 }
 
-/* .destination img{
-    height: 200px;
-    width: 100%;
-} */
+#highlights h2{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(39, 39, 39);
+    margin: 20px 0;
+}
 
 .destination {
     margin: 0 20px;
+    width: 100%;
   }
 
 .destination img {
@@ -59,3 +63,14 @@
     border-radius: 10px;
     object-fit: cover;
   }
+
+.destination p{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 24px;
+    color: rgb(32, 32, 32);
+}
+
+.destination strong{
+    color: rgb(0, 160, 116);
+}
