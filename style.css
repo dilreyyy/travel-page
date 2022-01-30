@@ -36,11 +36,16 @@
     background-color: rgb(255, 238, 0);
 }
 
+#highlights{
+    padding: 24px;
+    background: linear-gradient(45deg, rgb(227, 253, 255), rgb(202,243,240));
+}
+
 #destinations{
     display: flex;
     width: 90%;
     margin: 0 auto 40px;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 #highlights h2{
